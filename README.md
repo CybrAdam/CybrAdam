@@ -5,8 +5,8 @@
 ](https://www.youtube.com/watch?v=zgqfWLHNKLk&t=360s)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-
+- 🔭 I’m currently working on ... [
+](https://www.youtube.com/watch?v=zgqfWLHNKLk&t=360s)
 
 - 🌱 I’m currently learning ...
 
