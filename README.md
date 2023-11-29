@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**CybrAdam/CybrAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**CybrAdam/CybrAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. [
+](https://www.youtube.com/watch?v=zgqfWLHNKLk&t=360s)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
